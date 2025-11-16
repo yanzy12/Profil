@@ -1,3 +1,3 @@
-page cv html &  css beginer
-
-Learning html css entry level
+#single-page CV Project
+Submission for the Single-page HTML CV project
+https://roadmap.sh/project/single-page-cv
